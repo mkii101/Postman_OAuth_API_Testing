@@ -174,4 +174,4 @@ Accesses a protected resource using the access token. The response is validated 
 ## References
 
 - [Google OAuth 2.0 Documentation](https://developers.google.com/identity/protocols/oauth2)
-- [Postman OAuth 2.0 Guide](https://learning.postman.com/docs/sending-
+- [Postman OAuth 2.0 Guide](https://learning.postman.com/docs/)
